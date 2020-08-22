@@ -85,6 +85,8 @@
         <item>@string/fod_recog_animation_miui_pulse</item>
         <item>@string/fod_recog_animation_miui_pulse_white</item>
         <item>@string/fod_recog_animation_miui_rhythm</item>
+        <item>@string/fod_recog_animation_miui_aurora_cas</item>
+        <item>@string/fod_recog_animation_miui_star_cas</item>
         <item>@string/fod_recog_animation_op_cosmos</item>
         <item>@string/fod_recog_animation_op_mclaren</item>
         <item>@string/fod_recog_animation_op_stripe</item>
@@ -124,6 +126,8 @@
         <item>19</item>
         <item>20</item>
         <item>21</item>
+        <item>22</item>
+        <item>23</item>
     </string-array>
 
     <!-- Torch Power button gestures -->
